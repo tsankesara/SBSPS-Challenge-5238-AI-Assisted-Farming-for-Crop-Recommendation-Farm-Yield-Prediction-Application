@@ -3,7 +3,7 @@
 # IBM Hack Challenge - 2021
 
 **Team Name - AgriOracle** \
-**Problem Title** - AI-Assisted Farming for Crop Recommendation & Farm Yield Prediction Application
+**Problem Title** - AI-Assisted Farming for Crop Recommendation & Farm Yield Prediction Application \
 **Hackathon Status** - Winner
 
 ## Team Members
